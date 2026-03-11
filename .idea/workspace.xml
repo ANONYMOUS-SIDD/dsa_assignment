@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5afb821d-e430-40e7-a3fe-07419cb4c3fa" name="Changes" comment="DSA Assignment Question Number 2">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc_5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_6.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc_6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_7.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc_7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc_8.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc_8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_2.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_3.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_4.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_5.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_6.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_7.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_7.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog_8.c" beforeDir="false" afterPath="$PROJECT_DIR$/prog_8.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ANONYMOUS-SIDD&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ANONYMOUS-SIDD/dsa_assignment.git&quot;,
+    &quot;accountId&quot;: &quot;afaf8bd8-93bf-4c7d-8936-7fb252e0d45d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39K7MSj5gCCv96kZEAbZMayyeqO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/anonymous/Android Development/Flutter Projects",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5afb821d-e430-40e7-a3fe-07419cb4c3fa" name="Changes" comment="" />
+      <created>1770432860028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770432860028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSA Assignment Question Number 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Assignment Question Number 2" />
+  </component>
+</project>
